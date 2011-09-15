@@ -1,0 +1,1 @@
+Export-Package org.jugsummercamp.demo.api;version=${pom.version}
