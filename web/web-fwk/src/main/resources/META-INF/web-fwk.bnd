@@ -9,9 +9,9 @@ Import-Package !com.sun.grizzly.*,\
                !javax.servlet.annotation.*, \
                !javax.servlet.jsp.*, \
 
-Export-Package org.jugsummercamp.demo.fwk; \
-               org.jugsummercamp.demo.fwk.api; \
-               org.jugsummercamp.demo.fwk.view;version=${pom.version}
+Export-Package org.judcon.demo.fwk; \
+               org.judcon.demo.fwk.api; \
+               org.judcon.demo.fwk.view;version=${pom.version}
 
 -exportcontents com.sun.jersey.*; \
                 com.sun.ws.*; \

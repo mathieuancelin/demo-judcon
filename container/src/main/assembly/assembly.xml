@@ -11,12 +11,12 @@
             <includes>
                 <include>org.apache.felix.gogo:org.apache.felix.gogo.commands</include>
                 <include>org.apache.felix.gogo:org.apache.felix.gogo.runtime</include>
-                <include>org.jugsummercamp.demo:web-api</include>
-                <include>org.jugsummercamp.demo:web-app</include>
-                <include>org.jugsummercamp.demo:web-fwk</include>
-                <include>org.jugsummercamp.demo:web-france</include>
-                <include>org.jugsummercamp.demo:web-spain</include>
-                <include>org.jugsummercamp.demo:web-england</include>
+                <include>org.judcon.demo:web-api</include>
+                <include>org.judcon.demo:web-app</include>
+                <include>org.judcon.demo:web-fwk</include>
+                <include>org.judcon.demo:web-france</include>
+                <include>org.judcon.demo:web-spain</include>
+                <include>org.judcon.demo:web-england</include>
                 <include>org.jboss.weld.osgi:weld-osgi-core-integration</include>
                 <include>org.jboss.weld.osgi:weld-osgi-core-api</include>
                 <include>org.jboss.weld.osgi:weld-osgi-core-spi</include>
